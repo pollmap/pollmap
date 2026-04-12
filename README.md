@@ -19,7 +19,7 @@
 
 | Stat | Value |
 |---|---|
-| MCP Tools | **396** across 64 servers |
+| MCP Tools | **398** across 64 servers |
 | Cron Jobs | **50+** automated pipelines |
 | AI Agents | **3** (HERMES · NEXUS · DOGE) |
 | Reports Generated | CUFA equity reports · macro dashboards |
@@ -45,6 +45,7 @@ Finance & Quant   │  pandas · numpy · scipy · pykrx · ccxt · LEAN Engine
 AI Infrastructure │  FastMCP 3.x · Claude API · 3-agent orchestration (HERMES/NEXUS/DOGE)
 Backend           │  Python · FastAPI · SQLite · PostgreSQL · Redis
 Frontend          │  TypeScript · Astro · Tailwind CSS · Plotly
+Local LLM         │  FastFlowLM (NPU) · KoboldCpp (Vulkan) · Ollama · LiteLLM Router
 DevOps            │  Ubuntu VPS · systemd · nginx · Docker · UFW
 ```
 
