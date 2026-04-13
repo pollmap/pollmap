@@ -19,10 +19,12 @@
 
 | Stat | Value |
 |---|---|
-| MCP Tools | **398** across 64 servers |
-| Cron Jobs | **50+** automated pipelines |
+| MCP Tools | **398** tools · 64 servers · ~1ms local |
+| Cron Jobs | **33** auto + 16 scripts (Vault Phase 5) |
 | AI Agents | **3** (HERMES · NEXUS · DOGE) |
-| Reports Generated | CUFA equity reports · macro dashboards |
+| Vault Notes | **2,812** (wiki 763 · links 710) |
+| Quant Tests | **378** (walk-forward · KIS · Upbit) |
+| Local LLM | **3-chip** NPU+iGPU+CPU (14.2 TPS peak) |
 
 ---
 
@@ -30,7 +32,7 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [**nexus-finance-mcp**](https://github.com/pollmap/nexus-finance-mcp) | 396-tool Finance & Research Intelligence Platform | Python · FastMCP 3.x · 64 servers |
+| [**nexus-finance-mcp**](https://github.com/pollmap/nexus-finance-mcp) | 398-tool Finance & Research Intelligence Platform ★ Local | Python · FastMCP 3.x · 64 servers |
 | [**luxon-ai**](https://github.com/pollmap/luxon-ai) | AI-native hedge fund: 3 agents · 50+ crons · MCP ecosystem | Python · OpenClaw · systemd |
 | [**open-trading-api**](https://github.com/pollmap/open-trading-api) | AI quant hedge fund backtester w/ KIS brokerage API | Python · pandas · QuantPipeline |
 | [**cufa-equity-report**](https://github.com/pollmap/cufa-equity-report) | Auto-generated equity research reports (HTML + XLSX) | Python · FastMCP · DART |
