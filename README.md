@@ -19,11 +19,11 @@
 
 | Stat | Value |
 |---|---|
-| MCP Tools | **398** tools · 64 servers · ~1ms local |
+| MCP Tools | **398** tools · 64 servers · self-hosted |
 | Cron Jobs | **33** auto + 16 scripts (Vault Phase 5) |
 | AI Agents | **3** (HERMES · NEXUS · DOGE) |
 | Vault Notes | **2,812** (wiki 763 · links 710) |
-| Quant Tests | **378** (walk-forward · KIS · Upbit) |
+| Quant Tests | **838** (walk-forward · KIS · Upbit) |
 | Local LLM | **3-chip** NPU+iGPU+CPU (14.2 TPS peak) |
 
 ---
@@ -47,8 +47,8 @@ Finance & Quant   │  pandas · numpy · scipy · pykrx · ccxt · LEAN Engine
 AI Infrastructure │  FastMCP 3.x · Claude API · 3-agent orchestration (HERMES/NEXUS/DOGE)
 Backend           │  Python · FastAPI · SQLite · PostgreSQL · Redis
 Frontend          │  TypeScript · Astro · Tailwind CSS · Plotly
-Local LLM         │  FastFlowLM (NPU) · KoboldCpp (Vulkan) · Ollama · LiteLLM Router
-DevOps            │  Ubuntu VPS · systemd · nginx · Docker · UFW
+Local LLM         │  Local LLM (NPU/GPU/CPU hybrid)
+DevOps            │  Linux · Docker · CI/CD
 ```
 
 ---
