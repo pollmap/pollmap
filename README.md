@@ -4,6 +4,8 @@
 
 **Founder @ Luxon AI · President @ CUFA · Junior @ CBNU Business**
 
+🌐 **[pollmap.github.io](https://pollmap.github.io/)** — 5-year solo build log + portfolio hub
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
 [![FastMCP](https://img.shields.io/badge/FastMCP-FF6B35?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/jlowin/fastmcp)
@@ -32,11 +34,13 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| [**🌐 pollmap.github.io**](https://pollmap.github.io/) | Personal portfolio hub — 5-year solo build log funnel for 2028 graduation | HTML · CSS · JS · GitHub Pages |
+| [**📘 equity-research-book**](https://github.com/pollmap/equity-research-book) | 24만 자 한국 시장 실전 기업분석 교재 (8 weeks + 7 appendices, CC BY-NC-ND 4.0) | docx · Korean equity research |
 | [**nexus-finance-mcp**](https://github.com/pollmap/nexus-finance-mcp) | 398-tool Finance & Research Intelligence Platform ★ Local | Python · FastMCP 3.x · 64 servers |
 | [**luxon-ai**](https://github.com/pollmap/luxon-ai) | AI-native hedge fund: 3 agents · 50+ crons · MCP ecosystem | Python · OpenClaw · systemd |
 | [**open-trading-api**](https://github.com/pollmap/open-trading-api) | AI quant hedge fund backtester w/ KIS brokerage API | Python · pandas · QuantPipeline |
 | [**cufa-equity-report**](https://github.com/pollmap/cufa-equity-report) | Auto-generated equity research reports (HTML + XLSX) | Python · FastMCP · DART |
-| [**luxon-blog**](https://github.com/pollmap/luxon-blog) | Technical blog — 70+ posts on AI, quant, and macro | Astro · Tailwind CSS · Three.js |
+| [**luxon-blog**](https://github.com/pollmap/luxon-blog) | Technical Devlog — 215+ posts in 5 categories (building/field/failure/deep-dive/retro) | Astro · Tailwind v4 · Three.js |
 
 ---
 
