@@ -6,6 +6,8 @@
 
 ## 1. 전체 요약
 
+실제 포트폴리오 페이지: [chanhee-portfolio.vercel.app](https://chanhee-portfolio.vercel.app)
+
 | 구분 | 규모 |
 |---|---:|
 | GitHub 레포 | 51개: public 21개, private 30개 |

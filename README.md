@@ -6,7 +6,7 @@
 
 금융 데이터, 투자 리서치, AI 에이전트, 제품형 웹앱을 연결해 실제로 작동하는 시스템을 만듭니다.
 
-[전체 포트폴리오](./PORTFOLIO.md) · [GitHub Pages](https://pollmap.github.io/) · [기업분석 교재](https://github.com/pollmap/equity-research-book) · [키우DA](https://value-map-ai.vercel.app)
+[포트폴리오 페이지](https://chanhee-portfolio.vercel.app) · [전체 문서](./PORTFOLIO.md) · [GitHub Pages](https://pollmap.github.io/) · [기업분석 교재](https://github.com/pollmap/equity-research-book) · [키우DA](https://value-map-ai.vercel.app)
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://typescriptlang.org)
